@@ -1,0 +1,6 @@
+@MultiPage_ELearning_Platform1_HostAddress = http://localhost:5168
+
+GET {{MultiPage_ELearning_Platform1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
