@@ -1,0 +1,32 @@
+[
+    {
+        "ticket_id": "T1777372777",
+        "emp_name": "Kalpana",
+        "dept": "IT",
+        "issue": "server down",
+        "category": "B",
+        "priority": "P3",
+        "status": "Open",
+        "created": "2026-04-28 16:09:37.733511"
+    },
+    {
+        "ticket_id": "T1777374093",
+        "emp_name": "Jaya",
+        "dept": "ECE",
+        "issue": "Laptop Slow",
+        "category": "Laptop slow",
+        "priority": "P3",
+        "status": "Closed",
+        "created": "2026-04-28 16:31:33.967647"
+    },
+    {
+        "ticket_id": "T1777374589",
+        "emp_name": "Varsha",
+        "dept": "EEE",
+        "issue": "Internet Down",
+        "category": "Internet Down",
+        "priority": "P2",
+        "status": "Closed",
+        "created": "2026-04-28 16:39:49.668395"
+    }
+]
